@@ -1,5 +1,5 @@
 # Simple Messaging App
-![MsgApp Screenshot](chat screenshot.png)
+![](IM%20test/ChatScreenshot.png)
 ## How to compile
 1st option: you can use Eclipse. Copy and paste my code into the OSU project template, it should works fine. 
 
@@ -9,12 +9,17 @@
 3. type `javac ChatClient.java`
 4. type `java ChatClient` to run the client file / `java ChatClient &` for more client
 
-##Controls
-Enter: send message
-Commands (type the command in the text box):
+## Controls
+Enter: Send message
+
+**Commands** (type the command in the text box):
+
 `-online` : to check the online user 
+
 `-quit` : to quit the client program
 
-Button: 
-"SEND" button: send message 
+**Button:** 
+
+"SEND" button: Send message 
+
 "CLEAR" button: clear the message window
