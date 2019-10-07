@@ -1,4 +1,9 @@
 # Simple Messaging App
+## Introduction
+- A simple multi-user IM platform based in TCP protocol.
+- A user could start up the server application on one machine and client application on other machine or on the same machine
+- Built in Java using Javax's Swing GUI toolkit
+
 ![](IM%20test/ChatScreenshot.png)
 ## How to compile
 1st option: you can use Eclipse. Copy and paste my code into the OSU project template, it should works fine. 
